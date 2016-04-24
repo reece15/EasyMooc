@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="EasyMooc"
+  id="myeclipse.1461520814408"
+  context-root="/EasyMooc"
+  j2ee-spec="6.0"
+  archive="EasyMooc.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
