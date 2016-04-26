@@ -3,6 +3,9 @@
     <wb-module deploy-name="EasyMooc">
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <wb-resource deploy-path="/" source-path="/src/main/webapp"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
         <property name="context-root" value="/EasyMooc"/>
         <property name="java-output-path" value="/EasyMooc/src/main/webapp/WEB-INF/classes"/>
     </wb-module>
